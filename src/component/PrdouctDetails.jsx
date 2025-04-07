@@ -199,7 +199,7 @@ export default function PrdouctDetails() {
                   SKU:{" "}
                   <span className="-text--main-color">LE018CL0JYLZGNAFAMZ</span>
                 </span>
-                <p className="text-[#777] text-[17px] leading-7 pt-6">
+                <p className="text-[#777] text-[178px] leading-7 pt-6">
                 This printer is easy to use and works great for everyday printing. It gives you sharp text and clear pictures, whether you're printing schoolwork, documents, or photos. You can print wirelessly from your phone, tablet, or computer without any trouble. It's fast, quiet, and fits nicely on a desk or shelf. A great choice for home or office use
                 </p>
                 <h2 className="pt-5 text-xl pb-2 max-[900px]:text-center">
